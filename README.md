@@ -32,15 +32,19 @@ Price: The price of the ticket
 ### Business Understanding
 Current research within this domain imply that airline ticket prices can be predicted using a set of a certain features which can be useful companies and tourist to deduce the price and when is the best time to buy a flight ticket. As the price of a flight ticket fluctuates as there is a seasonal price is applied from time to time, it is difficult to get an accurate prediction. Thus, the main question now is it possible to predict the ticket price based on features related to the flight itself such as flight duration, number of stops, etc.
 
+### Tools:
+**How do you intend to meet the tools requirement of the project?**
+1. Using Selenium and BeautifulSoup to perform web scraping.
+2. Scikit-learn and Statsmodels to perform regression.
+3. Numpy and Pandas to perform data manipulation.
+4. Matplotlib , Seaborn , and Tableau for data visualization.
+
+**Are you planning in advance to need or use additional tools beyond those required?**
+We plan to incorporate travel APIs to include real-time data.
+
 
 
 ### Medthodology
 Initially, I plan to delve deep into the data to gain a complete understanding of the many variables. I intend to do some data wrangling and cleaning to cope with missing values and other issues. Once the data has been cleansed, I plan to perform exploratory analysis to extract any intriguing insights from it. Feature engineering will also be used to uncover new significant features that may be employed in the model construction process. Finally, various models will be created using machine learning methods. Data visualizations will support in the communication of these findings and will help to tell a story.
 
-
-![Alternate image text](https://github.com/princecj65779/abc/blob/main/Copy%20of%20Copy%20of%2023andMe%20Genomics%20(2).png)
-
-![Alternate image text](https://github.com/princecj65779/abc/blob/main/city%20capstone.png)
-
-![Alternate image text](https://github.com/princecj65779/abc/blob/main/prescrb.png)
 
