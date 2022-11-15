@@ -66,8 +66,8 @@ Initially, I plan to delve deep into the data to gain a complete understanding o
 ![Screenshot](https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154330.png)
 
 ##### **Duration of minutes is positvely correlated to flight prices**
-![Screenshot]([https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154330.png](https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154545.png))
+![Screenshot](https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154545.png)
 
-##### **Duration of minutes is positvely correlated to flight prices**
-![Screenshot]([https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154330.png](https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154616.png))
+##### **which city has maximum final destination of flights ?**
+![Screenshot](https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154616.png)
 
