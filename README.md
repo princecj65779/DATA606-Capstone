@@ -59,3 +59,9 @@ We plan to incorporate travel APIs to include real-time data.
 Initially, I plan to delve deep into the data to gain a complete understanding of the many variables. I intend to do some data wrangling and cleaning to cope with missing values and other issues. Once the data has been cleansed, I plan to perform exploratory analysis to extract any intriguing insights from it. Feature engineering will also be used to uncover new significant features that may be employed in the model construction process. Finally, various models will be created using machine learning methods. Data visualizations will support in the communication of these findings and will help to tell a story.
 
 
+
+### Exloratory Data Analysis
+
+##### **Count of Airlines**
+![Screenshot](https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154330.png)
+
