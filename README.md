@@ -71,3 +71,10 @@ Initially, I plan to delve deep into the data to gain a complete understanding o
 ##### **which city has maximum final destination of flights ?**
 ![Screenshot](https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/Screenshot%202022-11-15%20154616.png)
 
+
+
+
+### Models
+![Screenshot](https://github.com/princecj65779/DATA606-Capstone/blob/main/Images/compare.png)
+
+
